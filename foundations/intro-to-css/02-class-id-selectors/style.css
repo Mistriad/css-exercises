@@ -1,0 +1,24 @@
+.UncoolClass,
+.CoolClass
+{
+    background-color: rgb(255, 167, 167); /* Value extracted from the image using a website*/
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.CoolClass
+{
+    font-size:36px;
+}
+
+#ID1
+{
+    color:blue;
+    font-size:36px;
+}
+
+#ID2
+{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+}
